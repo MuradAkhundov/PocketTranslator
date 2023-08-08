@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "53915589100",
+    "project_id": "pockettranslator-c63f4",
+    "storage_bucket": "pockettranslator-c63f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53915589100:android:f8daf8f21f8b0def1688c9",
+        "android_client_info": {
+          "package_name": "com.muradakhundov.pockettranslator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53915589100-t0nvvbf0uu55n9ppiifqqt96449tbkjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxRKEXv_2BPwgmyPd-xzfPsgt4XdvVgng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53915589100-t0nvvbf0uu55n9ppiifqqt96449tbkjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
